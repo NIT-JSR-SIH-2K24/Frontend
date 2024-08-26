@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CropMate</string>
+    <string name="cropmate">CropMate</string>
+    <string name="splashimgdesc">splash image</string>
+</resources>
